@@ -109,7 +109,7 @@ foreach($kursevi as $kr):
         <td>
             <label class="form-check-label">
                 <input type="checkbox" name="cekirano" value="<?php echo $kr['id'];?> ">
-                <span class="checkmark"></span> <!-- ne znam sta je -->
+                <span class="checkmark"></span> 
 </label>
         </td>
     

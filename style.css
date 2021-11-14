@@ -1,0 +1,22 @@
+.forma {
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.celaforma {
+    padding: 60px;
+}
+.naslov {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+p {
+    font-size: 20px;
+}
+.pasus {
+    font-size: 15px;
+    background-color: #f3f3f3;
+}
+

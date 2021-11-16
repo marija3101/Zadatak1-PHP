@@ -87,7 +87,7 @@ integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7T
   <table class="table table-striped table-bordered table-condensed" style="color: black;" id="tabelaid">
     <thead>
         <tr>
-           <th onclick="sortirajTabelu(0)">Naziv krusa</th>
+           <th onclick="sortirajTabelu(0)">Naziv kursa</th>
             <th onclick="sortirajTabelu(1)">Broj učenika</th>
             <th onclick="sortirajTabelu(2)">Datum</th>
             <th onclick="sortirajTabelu(3)">Komande</th>
